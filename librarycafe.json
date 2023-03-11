@@ -1,0 +1,83 @@
+[
+  {
+    "Name": "Wellcome Collection Library",
+    "Location": "London",
+    "Details": "",
+    "Image": "https://images.prismic.io/wellcomecollection/009fd9cc709114aa5327d0b68c260b9cfb1be170_btg150421203820.jpg?auto=compress,format",
+    "Latitude": 51.525841,
+    "Longitude": -0.133909
+  },
+
+  {
+    "Name": "Wood Green Library",
+    "Location": "London",
+    "Details": "",
+    "Image": "https://c8.alamy.com/comp/2AYWXRN/exterior-view-of-wood-green-central-library-in-north-london-uk-2AYWXRN.jpgt",
+    "Latitude": 51.59547,
+    "Longitude": -0.10938
+  },
+  {
+    "Name": "British Library",
+    "Location": "London",
+    "Details": "",
+    "Image": "https://cdn.britannica.com/27/212527-050-1678EADF/British-Library-London-England.jpg",
+    "Latitude": 51.5300,
+    "Longitude": 0.1277
+  },
+  {
+    "Name": " Barbican Library",
+    "Location": "London",
+    "Details": "",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Barbican_library_%287049041697%29.jpgt",
+    "Latitude": 51.5199,
+    "Longitude": 0.0938
+  },
+  {
+    "Name": "National Art Library at the Victoria & Albert Museum",
+    "Location": "London",
+    "Details": "",
+    "Image": "http://blogs.bodleian.ox.ac.uk/wp-content/uploads/sites/133/2014/02/John-Madjeski-Garden.jpg",
+    "Latitude": 51.4973,
+    "Longitude": -0.1730
+  },
+  {
+    "Name": "Caya Cafe",
+    "Location": "London",
+    "Details": "",
+    "Image": "https://included.co/wp-content/uploads/formidable/9/44A9662.jpg",
+    "Latitude": 51.4628,
+    "Longitude": 0.1088
+  },
+  {
+    "Name": " Look Mum No Hands!",
+    "Location": "London",
+    "Details": "",
+    "Image": "https://www.lookmumnohands.com/uploads/images/Oct2015headersmall.jpg",
+    "Latitude": 51.54241,
+    "Longitude": 0.0969
+  },
+  {
+    "Name": "BFI Reuben Library",
+    "Location": "London",
+    "Details": "",
+    "Image": "https://whatson.bfi.org.uk/ArticleMedia/Images/WhatsOn%20images/BFI%20library/bfi-reuben-library.jpg",
+    "Latitude": 51.5065,
+    "Longitude": -0.1149
+  },
+  {
+    "Name": "Bishopsgate Library",
+    "Location": "London",
+    "Details": "",
+    "Image": "https://d245m47bicpi64.cloudfront.net/_imager/files/Activities/Languages-and-Writing/46246/Bishopsgate-Institute-The-Library-11_386f058fe2466438d87e734febd43f32.jpg",
+    "Latitude": 51.5187,
+    "Longitude": 0.0793
+  },
+  {
+    "Name": "Central Library Islington",
+    "Location": "London",
+    "Details": "",
+    "Image": "https://cdn.prgloo.com/media/1e4c9cafc7944048b2e6bc9bf0f44b66.jpg?width=1200&height=1800",
+    "Latitude": 51.5491,
+    "Longitude": 0.1074
+  }  
+]
